@@ -3,7 +3,7 @@
 <p float="left">
   <img src="https://github.com/pegadadigital/Visualizing-COVID-19/blob/master/Images/1.jpg" width="300" />
 </p>
-This content is from a Guided Project in [Datacamp](https://learn.datacamp.com/projects/870).
+This content is from a [Guided Project in Datacamp](https://github.com/stefanproell/jupyter-notebook-docker-compose)[teste](https://learn.datacamp.com/projects/870).
 
 
 ### Starting Docker container
