@@ -29,6 +29,7 @@ https://localhost:8888
 
 The **Notebook** folder has the source files in Jupyter:
 * notebook.ipynb
+
 And the **dataset** folder with csv data.
 It's organized in topics:
  1. From epidemic to pandemic
